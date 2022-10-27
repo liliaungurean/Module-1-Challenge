@@ -2,7 +2,8 @@
 ## Description
     The motivation behind this project was to be inclusive in the usage of not only to the user but also for the developer when and if something needs to change.
     This was built to make the web-site more user friendly and accessible to those that are more visually impaired. 
-    It added alternative text to images that some would have a harder time seeing or those who have a page read out to them. This also helped the developing side to find and access different parts of the web page and html file easier. 
+    It added alternative text to images that some would have a harder time seeing or those who have a page read out to them. This also helped the developing side to find and access different parts of the web page and html file easier. Organized the CSS file without changing the design of the web-page. 
+ 
 
 ## Installation
 
