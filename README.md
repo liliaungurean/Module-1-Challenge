@@ -6,7 +6,7 @@
  
 
 ## Installation
-
+This page does not require installation. You can open the page using any browser application.
 
 
 ## Usage
@@ -38,3 +38,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## How to Contribute
+Feel free to contact with any changes idea to better imrpove the use of the web-site. 
